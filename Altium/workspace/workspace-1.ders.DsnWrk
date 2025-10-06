@@ -1,0 +1,44 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\projects\((Inventory))\((Inventory)).PrjPcb
+[Project2]
+ProjectPath=..\projects\stmf417 board\stmf417 board.PrjPcb
+[Project3]
+ProjectPath=..\library\resistor\Resistor.LibPkg
+[Project4]
+ProjectPath=..\library\capacitor\capacitor.LibPkg
+[Project5]
+ProjectPath=..\library\diode\diode.LibPkg
+[Project6]
+ProjectPath=..\library\IC-Interface\IC-Interface.LibPkg
+[Project7]
+ProjectPath=..\library\IC-MCU\IC-MCU.LibPkg
+[Project8]
+ProjectPath=..\library\IC-Power-DC-DC\IC-Power-DC-DC.LibPkg
+[Project9]
+ProjectPath=..\library\IC - Buffer\IC - Buffer.LibPkg
+[Project10]
+ProjectPath=..\library\IC - Clock, Timing, Oscillator\IC - Clock, Timing, Oscillator.LibPkg
+[Project11]
+ProjectPath=..\library\Module- LCD\Module- LCD.LibPkg
+[Project12]
+ProjectPath=..\library\Connector - JST\Connector - JST.LibPkg
+[Project13]
+ProjectPath=..\library\Connector - Registered Jack\Connector - Registered Jack.LibPkg
+[Project14]
+ProjectPath=..\library\Connector - Header\Connector - Header.LibPkg
+[Project15]
+ProjectPath=..\library\Connector - USB\Connector - USB.LibPkg
+[Project16]
+ProjectPath=..\library\Inductor\Inductor.LibPkg
+[Project17]
+ProjectPath=..\library\Transformer\Transformer.LibPkg
+[Project18]
+ProjectPath=..\library\Transistor\Transistor.LibPkg
+[Project19]
+ProjectPath=..\library\Switch\Switch.LibPkg
+[Project20]
+ProjectPath=..\library\Crystal\Crystal.LibPkg
+[Project21]
+ProjectPath=..\library\Mechanical\Mechanical.LibPkg
